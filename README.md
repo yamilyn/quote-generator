@@ -1,4 +1,4 @@
-#Quotes generator
+# 💬 Quotes generator
 ***
 
 ## README By: Yamily Benigni - [Linkedin](https://www.linkedin.com/in/yamilybenigni/) | [Portfolio](https://yamilycodes.com)
